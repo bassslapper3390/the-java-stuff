@@ -1,3 +1,4 @@
+package Loops;
 import java.util.*; 
 public class demoloop {
     public static void main(String[] args){

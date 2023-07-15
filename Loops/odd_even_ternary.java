@@ -1,3 +1,4 @@
+package Loops;
 /* program to check for odd even number 
  */
 import java.util.*; 

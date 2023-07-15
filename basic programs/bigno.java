@@ -17,9 +17,6 @@ public class bigno {
         System.out.println(b+" is the biggest number");
         else 
         System.out.println(c+" is the biggest number");
-
-
-
     }
     
 }

@@ -30,6 +30,9 @@ public class switchcase {
             case 7:
                 System.out.println("Sunday"); 
                 break;
+            default:
+                System.out.println("Enter a valid number!!");
+            
         }
 
     }
